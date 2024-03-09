@@ -1,0 +1,20 @@
+DS001 | IT888 | 789 | null | 22/08/2023 | (deleted) | (deleted) | Deleted)
+DS002 | IT007 | 7 | null | 22/08/2023
+DS003 | IT001 | 20 | null | 22/08/2023
+DS004 | IT002 | 12 | null | 22/08/2023
+DS005 | IT003 | 12 | null | 22/08/2023
+DS006 | IT002 | 1 | null | 22/08/2023
+DS007 | IT001 | 32 | null | 22/08/2023
+DS008 | IT003 | 34 | null | 22/08/2023
+DS009 | IT002 | 23 | null | 22/08/2023
+DS010 | IT001 | 45 | null | 22/08/2023
+DS011 | DS001 | 345 | null | 06/09/2023
+DS012 | IT001 | 78 | null | 06/09/2023
+DS013 | IT009 | 78 | null | 06/09/2023 | (deleted) | Deleted)
+new_oodj_assign.FileHandling@5fdef03a
+DS015 | null | IT999 | 78 | 06/09/2023 | Deleted)
+new_oodj_assign.FileHandling@4d591d15
+new_oodj_assign.FileHandling@3abfe836
+DS018 | IT00193013 | d | 30 | 07/09/2023 | Deleted)
+new_oodj_assign.FileHandling@3abfe836
+DS020 | null | IT005 | 3 | 07/09/2023

@@ -1,0 +1,6 @@
+IT001|LeeQinJun|87|2|3|Sohai|Deleted
+IT002|Apple|3|10|20|FromAustralia|Deleted
+IT003|Orange|2|50|60|FromAus|Existed
+IT004|Cigerrite|15|28|20|Not-Good-For-Health|Existed
+IT005|Cigerrite|18|28|10|None|Existed
+IT006|NEW_System|600|1|1|-|Existed
